@@ -11,9 +11,9 @@ from acrcloud.recognizer import ACRCloudRecognizeType
 
 if __name__ == '__main__':
     config = {
-        'host':'XXXXXXXX',
-        'access_key':'XXXXXXXX',
-        'access_secret':'XXXXXXXX',
+        'host':'identify-ap-southeast-1.acrcloud.com',
+        'access_key':'1a0cef2f6b6e1cb2aa1060d84260b83a',
+        'access_secret':'nAP54sQfL16WNYCbmo6HEbjqgfHVdVO8aLpekfmL',
         'recognize_type': ACRCloudRecognizeType.ACR_OPT_REC_AUDIO, # you can replace it with [ACR_OPT_REC_AUDIO,ACR_OPT_REC_HUMMING,ACR_OPT_REC_BOTH], The     SDK decide which type fingerprint to create accordings to "recognize_type".
         'debug':False,
         'timeout':10 # seconds
