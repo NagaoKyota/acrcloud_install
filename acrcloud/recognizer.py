@@ -250,8 +250,8 @@ class ACRCloudStatusCode:
 if __name__ == '__main__':
     config = {
         'host':'ap-southeast-1.api.acrcloud.com',
-        'access_key':'1a0cef2f6b6e1cb2aa1060d84260b83a',
-        'access_secret':'nAP54sQfL16WNYCbmo6HEbjqgfHVdVO8aLpekfmL',
+        'access_key':'XXXXXXXX',
+        'access_secret':'XXXXXXXX',
         'timeout':5
     }
 

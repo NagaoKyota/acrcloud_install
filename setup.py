@@ -20,4 +20,3 @@ setup(
     zip_safe=False,
     # could also include long_description, download_url, classifiers, etc.
 )
-
